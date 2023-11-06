@@ -1,2 +1,2 @@
-# webdevbangla.github.io
+# WebDevBangla
 Official website of WevDevBangla
